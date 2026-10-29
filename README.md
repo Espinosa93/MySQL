@@ -94,8 +94,9 @@ Entre os principais conhecimentos praticados estão:
 - Est
 
 
-📈 Minhas Estatísticas
-- <p>
+### 📈 Minhas Estatísticas
+
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -112,4 +113,3 @@ Entre os principais conhecimentos praticados estão:
   />
 
 </p>
-
