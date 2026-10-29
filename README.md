@@ -3,7 +3,7 @@
 
   <h1>Olá, eu sou o David! 👋</h1>
 
-  <p>🎓 Estudante de TI | 💾 Focado em Banco de Dados e Desenvolvimento de Software</p>
+  <p>💾 Focado em Banco de Dados e Desenvolvimento de Software</p>
 
   <p>
     <a href="https://linkedin.com/in/david-espinosadle" target="_blank">
