@@ -93,6 +93,8 @@ Entre os principais conhecimentos praticados estão:
 - Aprimorar conhecimentos em **Java e Python**.
 - Est
 
+
+📈 Minhas Estatísticas
 - <p>
   <img 
     align="left" 
