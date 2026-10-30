@@ -1,17 +1,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/DAVID_ESPINOSA.png" width="120px" style="border-radius: 50%;" alt="Avatar"/>
 
-  <h1>Olá, eu sou o David! 👋</h1>
+  <h1>Olá</h1>
 
   <p>💾 Este repositório é focado em Banco de Dados e Desenvolvimento de Software</p>
 
   <p>
-    <a href="https://linkedin.com/in/david-espinosadle" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:049espinosa@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+    
   </p>
 </div>
 
@@ -19,11 +14,9 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de Tecnologia da Informação e Desenvolvedor de Software em formação, com foco em **Banco de Dados e desenvolvimento de aplicações**.
-
-Tenho conhecimentos em **MongoDB, MySQL e SQL**, além de experiência acadêmica com integração entre aplicações e bancos de dados. Também estudo **Java e Python**, utilizando essas linguagens para desenvolver aplicações, realizar operações com dados e praticar conceitos de desenvolvimento de software.
-
-Tenho interesse em **modelagem de dados, integração com bancos de dados, operações CRUD, APIs e automação de processos**.
+- 📚 Estudando os fundamentos em **Banco de Dados e desenvolvimento de aplicações**.
+- 💡 Focado em desenvolver  **MongoDB, MySQL e SQL**.
+- 🎯 Praticando **modelagem de dados, integração com bancos de dados, operações CRUD, APIs e automação de processos**.
 
 ---
 
